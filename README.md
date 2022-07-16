@@ -18,7 +18,7 @@
 
 ### The multiple line graph below displays the Weekly Total Fare by City Type. As shown, we clearly see that the Urban Cities have the highest Weekly Total Fares throughout the 4 months-period, followed by the Suburban Cities, and last Rural Cities, which is clearly where most of the PyBer company's income comes from.
 
-![](analysis/PyBer_fare_summary.PNG)
+![](analysis/Pyber_fare_summary.png)
 
 ## Summary:
 
